@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Unit_Converter</string>
+    <string name="celcius_to_fahrenheit">Celcius to Fahrenheit</string>
+</resources>
